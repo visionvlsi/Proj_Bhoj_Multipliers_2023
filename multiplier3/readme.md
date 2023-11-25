@@ -1,7 +1,6 @@
 # High-speed Hardware Integer Multiplier Implementations
 
-### Goal
-The purpose of this project is to design high speed hardware integer multipliers and implement them in Verilog. 
+### Design high-speed hardware integer multipliers and implement them in Verilog. 
 
 ### Design of 6 different multipliers as follows:
 
